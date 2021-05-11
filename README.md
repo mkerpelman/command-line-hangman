@@ -1,5 +1,5 @@
 # Command-Line Hangman
-This project, as [part of the Odin Porject's "Ruby Programming" module](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-programming/lessons/file-i-o-and-serialization-ruby-programming), is an attempt at developing a command-line hangman game under the usual principles of object-oriented programming. In addition, the program features the ability to save and load game progress. Though no sane person would save a game of hangman and come back to it later, this is an exercise in file serialization through Ruby. The game is designed for one person to play against a computer AI in the command-line.
+This project, as [part of the Odin Project's "Ruby Programming" module](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-programming/lessons/file-i-o-and-serialization-ruby-programming), is an attempt at developing a command-line hangman game under the usual principles of object-oriented programming. In addition, the program features the ability to save and load game progress. Though no sane person would save a game of hangman and come back to it later, this is an exercise in file serialization through Ruby. The game is designed for one person to play against a computer AI in the command-line.
 
 ## Technologies
 * Ruby 2.7.2
